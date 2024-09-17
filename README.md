@@ -1,10 +1,10 @@
-# Srilatha's ITMD541 Class Repository
+# SRILATHA TUMMALAPALLI ITMD541 Class Repository
 
 Welcome to my **ITMD541 Class Portfolio**. This repository contains my work for the class, including my web development projects, code snippets, and labs. 
 
 ## About Me
 
-Hi! I'm **Srilatha**, a Master's degree student with a strong interest in:
+Hi! I'm **SRILATHA TUMMALAPALLI**, a Master's degree student with a strong interest in:
 - **Software Engineering**
 - **Machine Learning**
 - **Software Architecture**
