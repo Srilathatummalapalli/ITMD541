@@ -10,8 +10,8 @@ Hi! I'm **SRILATHA TUMMALAPALLI**, a Master's degree student with a strong inter
 - **Software Architecture**
 - **Artificial Intelligence**
 
-Educational background:- BTECH in Electronics and communications engineering
-Home place:- Bandipalem, NTR district, Jaggayyapeta mandal -521178
+Educational background:- Masters in Information Technology and Management
+Home place:- 401 E 32nd street, Apt:- 312, Chicago,IL-60616
 
 In this course, I aim to build and enhance my web development skills while integrating what I learn in the field of software development and AI.
 
